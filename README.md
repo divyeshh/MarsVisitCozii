@@ -1,6 +1,3 @@
-Here's an updated version of the README with the mention of Netlify deployment:
-
----
 
 # Mars Visit Application Form
 
@@ -77,6 +74,3 @@ In the project directory, you can run the following commands:
 
 This project is deployed on **Netlify**. Once the app is built using `npm run build`, it is ready for deployment on Netlify or any other platform of your choice. For more details, refer to the official React documentation for deployment options.
 
----
-
-This version includes the mention of Netlify under both the live demo link and the deployment section. Let me know if you'd like any other modifications!
