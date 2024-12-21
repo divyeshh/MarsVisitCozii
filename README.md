@@ -39,8 +39,8 @@ Follow the steps below to run this project on your local machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/oleksandra-o/mars-visit-application.git
-   cd mars-visit-application
+   git clone https://github.com/divyeshh/MarsVisitForm.git
+   cd mars-visit-application-form
    ```
 
 2. **Install the necessary dependencies:**
