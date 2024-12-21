@@ -39,7 +39,7 @@ Follow the steps below to run this project on your local machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/divyeshh/MarsVisitForm.git
+   git clone https://github.com/divyeshh/MarsVisitCozii.git
    cd mars-visit-application-form
    ```
 
