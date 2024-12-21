@@ -72,5 +72,5 @@ In the project directory, you can run the following commands:
 
 ### Deployment
 
-This project is deployed on **Netlify**. Once the app is built using `npm run build`, it is ready for deployment on Netlify or any other platform of your choice. For more details, refer to the official React documentation for deployment options.
+This project is deployed on **Netlify**. Once the app is built using `npm run build`.
 
